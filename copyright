@@ -1,6 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: es-mswarmer
 Upstream-Contact: Arturs Garkājs <tadrix@gmail.com>
-Source: https://github.com/Tadrix/es-swarmer
+Source: https://github.com/Tadrix/es-mswarmer
 
 Files: *
 Copyright: Arturs Garkājs <tadrix@gmail.com>
